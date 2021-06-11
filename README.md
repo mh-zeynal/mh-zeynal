@@ -1,5 +1,5 @@
 ### Hi there 👋
-social media: https://www.instagram.com/mh.zeynal/
+
 <!--
 **mh-zeynal/mh-zeynal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
