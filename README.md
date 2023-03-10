@@ -40,7 +40,7 @@ I'm a full-stack web developer. I enjoy using angular, golang and spring boot a 
 </div>
   
 ---
-<div style="display:flex;">
+<div style="display:flex; justify-content:space-between;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mh-zeynal&theme=algolia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-zeynal&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true">
