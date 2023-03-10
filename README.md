@@ -1,4 +1,6 @@
-![banner](github-header-image.png)
+<p align="center">
+    <img src="github-header-image.png">
+</p>
 <div style="display: flex; justify-content: space-between; padding: 0 20px;">
     <a href="https://www.linkedin.com/in/mohammad-hossein-zeynal-zadeh-a3b1b8213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/mhzn74" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn"></a>
@@ -40,10 +42,7 @@ I'm a full-stack web developer. I enjoy using angular, golang and spring boot a 
 </div>
   
 ---
-<div style="display:flex; justify-content:space-between;">
+<p align="center">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mh-zeynal&theme=algolia&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-zeynal&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true">
-
-</div>  
-  
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-zeynal&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true">
+</p>
