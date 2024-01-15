@@ -41,8 +41,8 @@ I'm a full-stack web developer. I enjoy using angular, golang and spring boot a 
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
 </div>
   
----
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mh-zeynal&theme=github_dark)  
+---  
 <p align="center">
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mh-zeynal&theme=github_dark">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-zeynal&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true">
 </p>
