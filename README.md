@@ -42,7 +42,7 @@ I'm a full-stack web developer. I enjoy using angular, golang and spring boot a 
 </div>
   
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mh-zeynal&theme=github_dark)  
 <p align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mh-zeynal&theme=github_dark)
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-zeynal&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true">
 </p>
