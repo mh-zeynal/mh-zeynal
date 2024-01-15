@@ -43,6 +43,6 @@ I'm a full-stack web developer. I enjoy using angular, golang and spring boot a 
   
 ---  
 <p align="center" style="display: flex; flex-direction: row; column-gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mh-zeynal&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mh-zeynal&theme=github_dark" style="flex: 2;">
     <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-zeynal&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true">
 </p>
